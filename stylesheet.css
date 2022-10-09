@@ -1,0 +1,23 @@
+#basketball {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: pink;
+    width: 1200px;
+    height: 50px;
+    padding: 10px;
+}
+
+.writing {
+    background-color: thistle;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 600px;
+    height: 200px;
+    padding: 20px
+}
+
+.link:hover {
+    color: steelblue;
+}
+
+.backup:hover {
+    color: yellowgreen
+}
